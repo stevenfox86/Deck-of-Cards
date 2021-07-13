@@ -31,11 +31,6 @@ public class Deck {
 		}
 	}
 	
-//	public List<Card> getDeck(){
-//		
-//		return thisDeck;
-//	}
-	
 	public void shuffleDeck() {
 		
 		Collections.shuffle(thisDeck);
